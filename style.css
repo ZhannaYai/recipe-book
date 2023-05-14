@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#recipeList {
+    width: 30%;
+    float: left;
+}
+
+#recipeDetails {
+    width: 70%;
+    float: right;
+}
+
+#addRecipeForm {
+    margin-top: 20px;
+}
+
+#addRecipeForm input,
+#addRecipeForm textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#addRecipeForm button {
+    display: block;
+    margin-top: 10px;
+}
